@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/ASUS/OneDrive/Escritorio/Cielo%20uvu/XD/nuevo/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
